@@ -1,6 +1,0 @@
-/home/Creeger/Projects/shuntingYard/build/CMakeFiles/shuntingYard.dir
-/home/Creeger/Projects/shuntingYard/build/CMakeFiles/tests.dir
-/home/Creeger/Projects/shuntingYard/build/CMakeFiles/sntYrd.dir
-/home/Creeger/Projects/shuntingYard/build/CMakeFiles/test.dir
-/home/Creeger/Projects/shuntingYard/build/CMakeFiles/edit_cache.dir
-/home/Creeger/Projects/shuntingYard/build/CMakeFiles/rebuild_cache.dir

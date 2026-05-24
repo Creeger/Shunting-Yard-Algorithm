@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsntYrd.a CMakeFiles/sntYrd.dir/src/shuntingYard.cpp.o
-/usr/bin/ranlib libsntYrd.a

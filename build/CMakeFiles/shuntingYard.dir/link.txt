@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/shuntingYard.dir/link.d CMakeFiles/shuntingYard.dir/src/main.cpp.o CMakeFiles/shuntingYard.dir/src/shuntingYard.cpp.o -o shuntingYard
